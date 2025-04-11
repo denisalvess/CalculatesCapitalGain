@@ -1064,11 +1064,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/UnitTest/UnitTest.csproj",
+      "projectUniqueName": "/home/daianevianaalves/Documentos/denis/git_subir/CalculatesCapitalGain/rsc/UnitTest/UnitTest.csproj",
       "projectName": "UnitTest",
-      "projectPath": "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/UnitTest/UnitTest.csproj",
+      "projectPath": "/home/daianevianaalves/Documentos/denis/git_subir/CalculatesCapitalGain/rsc/UnitTest/UnitTest.csproj",
       "packagesPath": "/home/daianevianaalves/.nuget/packages/",
-      "outputPath": "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/UnitTest/obj/",
+      "outputPath": "/home/daianevianaalves/Documentos/denis/git_subir/CalculatesCapitalGain/rsc/UnitTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/daianevianaalves/.nuget/NuGet/NuGet.Config"
@@ -1083,14 +1083,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Application/Application.csproj": {
-              "projectPath": "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Application/Application.csproj"
+            "/home/daianevianaalves/Documentos/denis/git_subir/CalculatesCapitalGain/rsc/Application/Application.csproj": {
+              "projectPath": "/home/daianevianaalves/Documentos/denis/git_subir/CalculatesCapitalGain/rsc/Application/Application.csproj"
             },
-            "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/CalculatesCapitalGain/CalculatesCapitalGain.csproj": {
-              "projectPath": "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/CalculatesCapitalGain/CalculatesCapitalGain.csproj"
+            "/home/daianevianaalves/Documentos/denis/git_subir/CalculatesCapitalGain/rsc/CalculatesCapitalGain/CalculatesCapitalGain.csproj": {
+              "projectPath": "/home/daianevianaalves/Documentos/denis/git_subir/CalculatesCapitalGain/rsc/CalculatesCapitalGain/CalculatesCapitalGain.csproj"
             },
-            "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Domain/Domain.csproj": {
-              "projectPath": "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Domain/Domain.csproj"
+            "/home/daianevianaalves/Documentos/denis/git_subir/CalculatesCapitalGain/rsc/Domain/Domain.csproj": {
+              "projectPath": "/home/daianevianaalves/Documentos/denis/git_subir/CalculatesCapitalGain/rsc/Domain/Domain.csproj"
             }
           }
         }

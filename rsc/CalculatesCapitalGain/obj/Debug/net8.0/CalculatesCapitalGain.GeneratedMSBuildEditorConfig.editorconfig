@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CalculatesCapitalGain
-build_property.ProjectDir = /home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/CalculatesCapitalGain/
+build_property.ProjectDir = /home/daianevianaalves/Documentos/denis/git_subir/CalculatesCapitalGain/rsc/CalculatesCapitalGain/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
