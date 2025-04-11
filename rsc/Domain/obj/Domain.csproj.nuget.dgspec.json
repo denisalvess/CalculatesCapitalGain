@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Domain/Domain.csproj": {}
+    "/home/daianevianaalves/Documentos/denis/git_subir/CalculatesCapitalGain/rsc/Domain/Domain.csproj": {}
   },
   "projects": {
-    "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Domain/Domain.csproj": {
+    "/home/daianevianaalves/Documentos/denis/git_subir/CalculatesCapitalGain/rsc/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Domain/Domain.csproj",
+        "projectUniqueName": "/home/daianevianaalves/Documentos/denis/git_subir/CalculatesCapitalGain/rsc/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Domain/Domain.csproj",
+        "projectPath": "/home/daianevianaalves/Documentos/denis/git_subir/CalculatesCapitalGain/rsc/Domain/Domain.csproj",
         "packagesPath": "/home/daianevianaalves/.nuget/packages/",
-        "outputPath": "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Domain/obj/",
+        "outputPath": "/home/daianevianaalves/Documentos/denis/git_subir/CalculatesCapitalGain/rsc/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/daianevianaalves/.nuget/NuGet/NuGet.Config"
