@@ -1,0 +1,27 @@
+#build result
+/bin/
+/obj/
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+#Visual Studio Code files
+.vscode/
+
+
+#Resharper files
+_ReSharpe*/
+*.DotSettings.user
+
+#DotNet specific
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.tmp
+*.user

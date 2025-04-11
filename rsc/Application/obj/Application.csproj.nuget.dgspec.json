@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Application/Application.csproj": {}
+  },
+  "projects": {
+    "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Application/Application.csproj",
+        "packagesPath": "/home/daianevianaalves/.nuget/packages/",
+        "outputPath": "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/daianevianaalves/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Domain/Domain.csproj": {
+                "projectPath": "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Domain/Domain.csproj",
+        "packagesPath": "/home/daianevianaalves/.nuget/packages/",
+        "outputPath": "/home/daianevianaalves/Documentos/denis/CalculatesCapitalGain/rsc/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/daianevianaalves/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
