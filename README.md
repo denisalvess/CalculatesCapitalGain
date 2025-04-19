@@ -78,19 +78,21 @@ Ao executar o Docker a aplicação será testada
 
 ## Explicação da aplicação
 
-CalculatesCapitalGain/
-├── src/
-│ ├── Application/
-│ │ ├── Ports/ # Interfaces para comunicação com o mundo externo
-│ │ ├── UseCases/ # Implementações dos casos de uso
-│ ├── Domain/
-│ │ ├── Constantes/ # Constantes usadas no domínio
-│ │ ├── Entities/ # Entidades principais do domínio
-│ │ ├── Exceptions/ # Exceções específicas do domínio
-│ ├── UnitTest/ # Testes unitários para a aplicação
-│ ├── CalculatesCapitalGain
-│ │ ├── Program.cs # Ponto de entrada da aplicação
-│ │
+<p class="has-line-data" data-line-start="0" data-line-end="13">CalculatesCapitalGain/<br>
+├── src/<br>
+│ ├── Application/<br>
+│ │ ├── Ports/ # Interfaces para comunicação com o mundo externo<br>
+│ │ ├── UseCases/ # Implementações dos casos de uso<br>
+│ ├── Domain/<br>
+│ │ ├── Constantes/ # Constantes usadas no domínio<br>
+│ │ ├── Entities/ # Entidades principais do domínio<br>
+│ │ ├── Exceptions/ # Exceções específicas do domínio<br>
+│ ├── UnitTest/ # Testes unitários para a aplicação<br>
+│ ├── CalculatesCapitalGain<br>
+│ │ ├── Program.cs # Ponto de entrada da aplicação<br>
+│ │</p>
+
+
 
 Camadas Explicadas
 - Application:
